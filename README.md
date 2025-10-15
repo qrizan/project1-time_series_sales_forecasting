@@ -1,1 +1,1 @@
-# project1-time_series_sales_forecasting
+### Melakukan peramalan penjualan periode mendatang berdasarkan data masa lalu. 
